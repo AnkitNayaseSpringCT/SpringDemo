@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ankit.nayase
+Build-Jdk: 11.0.13
+Implementation-Title: Spring Boot Blank Project (from https://github.com
+ /making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springdemo
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.springdemo.demoproject.App
+Created-By: Maven Integration for Eclipse
+
